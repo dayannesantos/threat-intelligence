@@ -34,7 +34,7 @@ PhantomIntel é uma aplicação simples e completa feita em Python + Streamlit q
 
 2. Instale as dependências:
    ```bash
-   pip install streamlit pandas requests openai python-dotenv
+   pip install requeriments.txt
    ```
 
 3. Rode a ferramenta:
