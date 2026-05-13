@@ -34,7 +34,7 @@ PhantomIntel é uma aplicação simples e completa feita em Python + Streamlit q
 
 2. Instale as dependências:
    ```bash
-   pip install requeriments.txt
+   pip install requirements.txt
    ```
 
 3. Rode a ferramenta:
