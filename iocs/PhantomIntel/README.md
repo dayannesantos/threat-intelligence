@@ -28,7 +28,7 @@ PhantomIntel é uma aplicação simples e completa feita em Python + Streamlit q
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/dayannesantos/phantomintel.git
+   git clone https://github.com/dayannesantos/threat-intelligence/iocs/phantomintel.git
    cd phantomintel
    ```
 
