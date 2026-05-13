@@ -1,0 +1,2 @@
+"""PhantomIntel package."""
+
